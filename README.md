@@ -17,3 +17,7 @@
 
   ### :man_technologist: Обо мне:
   ---
+  - :hear_no_evil: Учусь
+  - :abacus: Плачу
+  - :ab: Умираю
+  
