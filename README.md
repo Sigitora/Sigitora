@@ -14,3 +14,6 @@
   <div id="heythere" align="center">
     <h1>Профиль на Guthub</h1>
   </div>
+
+  ### :man_technologist: Обо мне:
+  ---
